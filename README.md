@@ -20,11 +20,10 @@ Each test data is compared with all the training data and their cosine similarit
 
 
 ## Results:
-K	Train     Test
-    Accuracy Accuracy
-10	81.89	79.23
-20	82.41	80.34
-30	85.71	83.23
-40	88.61	86.78
-60	81.54	79.93
+
+- K = 10	Train = 81.89	Test = 79.23
+- K = 20	Train = 82.41	Test = 80.34
+- K = 30	Train = 85.71	Test = 83.23
+- K = 40	Train = 88.61	Test = 86.78
+- K = 60	Train = 81.54	Test = 79.93
 
